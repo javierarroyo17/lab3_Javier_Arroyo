@@ -78,3 +78,4 @@ In GitHub repository settings, set branch protection for your main branch and re
 - status check `CI / test-and-coverage`
 - pull request before merge
 - up-to-date branch before merge
+- Pull request checks run automatically on each PR update.
