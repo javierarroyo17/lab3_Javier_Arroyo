@@ -1,0 +1,14 @@
+[run]
+source =
+    billing
+    users
+omit =
+    */migrations/*
+    */tests/*
+    */management/*
+    */__init__.py
+
+[report]
+fail_under = 80
+show_missing = true
+skip_covered = true
